@@ -43,6 +43,7 @@ int main ()
 }
 
 /*
+Hello! Please input 8 whole numbers.
 7 5 4 3 2 1 9 23
 4
 2
